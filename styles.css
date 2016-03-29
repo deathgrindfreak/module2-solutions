@@ -1,0 +1,13 @@
+
+
+/* large devices */
+@media (min-width: 992px) {
+}
+
+/* tablet */
+@media (max-width: 991px) and (min-width: 768px) {
+}
+
+/* mobile */
+@media (max-width: 767px) {
+}
